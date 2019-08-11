@@ -1,0 +1,11 @@
+Using 'add'
+-----------
+>>> from doc_test import add
+>>> add(4, 5)
+9
+>>> add(2, 4)
+6
+>>> add(10, 13)
+23
+>>> add(19, 1)
+21
