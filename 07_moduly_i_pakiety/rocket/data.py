@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  8 21:23:52 2019
 
-@author: krako
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
 """
 
 def get_data():

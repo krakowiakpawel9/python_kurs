@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 
 """
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
+"""
 assertEqual - sprawdza czy dwa elementy są równe
 assertNotEqual - sprawdza czy dwa elementy nie są równe
 assertTrue - sprawdza czy wyrażenie/element jest prawdą

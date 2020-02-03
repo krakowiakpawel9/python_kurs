@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 stocks = {'AMZN.US': 'Amazon.com Inc', 'GOOGL.US': 'Alphabet Inc',
           'AAPL.US': 'Apple Inc', 'UBER.US': 'Uber Technologies Inc',
           'MSFT.US': 'Microsoft Corp'}

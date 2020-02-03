@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 raw_data = '345!23!3234!43434'
 clean_data = ''
 

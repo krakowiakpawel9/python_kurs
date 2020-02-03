@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 def add(x, y):
     """Zwraca sumę dwóch liczb.
     

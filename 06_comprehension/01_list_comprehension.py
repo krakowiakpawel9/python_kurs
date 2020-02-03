@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 results = []
 for i in range(100):
     results.append(i**2)

@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 
 """
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
+"""
 assertRaises(exception, callable, *args, **kwargs)
     testuje czy błąd zostanie wyrzucony. Test jest zdany, gdy oczekiwany błąd
     zostanie podniesiony, w przeciwnym razie test jest nie zdany

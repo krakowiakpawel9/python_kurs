@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  9 18:35:27 2019
 
-@author: krako
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
 """
 
 print('Nazwa modułu: ', __name__)

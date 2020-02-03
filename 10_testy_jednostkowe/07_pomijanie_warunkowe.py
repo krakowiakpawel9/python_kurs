@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 
 """
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
+"""
 Opis metod:
     
     unittest.skip(reason)

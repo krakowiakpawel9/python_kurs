@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 
 """
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
+"""
 tworzenie testu jednostkowego 
 1. zaimportowanie unittest
 2. zdefiniowanie funkcji do testowania

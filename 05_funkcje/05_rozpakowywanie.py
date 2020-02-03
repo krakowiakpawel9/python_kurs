@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 def test_args(x, *args):
     print('Pierwszy paramet:', x)
     for arg in args:

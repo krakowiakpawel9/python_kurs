@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 # %%
 text = 'Python jest wspaniały. Python jest elastyczny. Python rządzi.'
 

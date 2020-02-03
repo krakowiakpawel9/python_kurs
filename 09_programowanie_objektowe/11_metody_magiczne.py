@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
    
 # %%
 1 + 1

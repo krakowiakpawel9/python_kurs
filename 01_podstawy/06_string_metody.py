@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 text = 'Witaj na kursie Pythona.\nPython jest wspaniały.'
 
 print(text)

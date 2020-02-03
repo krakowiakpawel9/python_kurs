@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 print('Program uruchomiony...')
 print("""Włam się do systemu, zgadując dwucyfrowy pin.
 Numer pin składa się z cyfr: 0, 1, 2.""")

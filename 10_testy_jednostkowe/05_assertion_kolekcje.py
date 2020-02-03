@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 
 """
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
+"""
 assertListEqual - sprawdza czy dwie listy są równe
 assertTupleEqual - sprawdza czy dwie tuple są równe
 assertSetEqual - sprawdza czy dwa zbiory są równe
