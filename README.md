@@ -1,6 +1,6 @@
 ## [e-smartdata.org](https://e-smartdata.org/) - kursy online :computer:
 ## Kurs: Programowanie w języku Python - od A do Z - 2020 (16h) 
-Repozytorium jest częścią kursu **Programowanie w języku Python - od A do Z - 2020 (16h) ** dostępnym na platformie:
+Repozytorium jest częścią kursu **Programowanie w języku Python - od A do Z - 2020 (16h)** dostępnym na platformie:
 * [e-smartdata.org](https://e-smartdata.org/):
   * :point_right: [Programowanie w języku Python - od A do Z - 2020 (16h)](https://e-smartdata.teachable.com/p/programowanie-w-jezyku-python-od-a-do-z)
 * Udemy.com:
