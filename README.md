@@ -3,7 +3,7 @@
 Repozytorium jest częścią kursu **Programowanie w języku Python - od A do Z - 2020 (16h)** dostępnym na platformach:
 * [e-smartdata.org](https://e-smartdata.org/):
   * :point_right: [Programowanie w języku Python - od A do Z - 2020 (16h)](https://e-smartdata.teachable.com/p/programowanie-w-jezyku-python-od-a-do-z)
-* [udemy.com](https://www.udemy.com/user/krakowiakpawel9/)  
+* [udemy.com](https://www.udemy.com/user/krakowiakpawel9/):  
   * :point_right: [Programowanie w języku Python - od A do Z - 2020 (16h)](https://www.udemy.com/course/programowanie-w-jezyku-python/?referralCode=C7E5AD6D60ADCBDEF759)
 ---
 ### REKOMENDOWANE ŚCIEŻKI UCZENIA
